@@ -3,7 +3,7 @@
 # SSH AUTNENTICATION
 # Please use app's secret manager to set your SSH private key
 echo "========================================="
-echo "==            SSH example             ==="
+echo "==            SSH P FIRE             ==="
 echo "== Login to remote host and view logs ==="
 echo "=========================================="
 sleep 1
@@ -12,4 +12,4 @@ sleep 1
 echo ssh -oStrictHostKeyChecking=no -oUserKnownHostsFile=/dev/null user@my.vpnaccessiblehost.com tail -100 /var/log/syslog
 
 echo ""
-echo "## END OF EXECUTION ##"
+echo "## END OF P FIRE ##"
